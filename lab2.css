@@ -1,0 +1,326 @@
+	.div1 {
+      width: 1000px;
+    	  height: 310px;
+    	  background-color: peru;
+        background-image: url("fon.jpg");
+        border-bottom: 40px solid rgba(130, 66, 24, 0.76);
+    	}
+    .div2 {
+        width: 1000px;
+        height: 500px;
+        background-color: tan;
+        border-top: 3px solid white;
+        background-image: url("fon.jpg");
+    }
+    .div3 {
+
+        position: relative;
+        top: -840px;
+       left: 50px;
+
+
+
+
+    }
+    .glav{
+        width: 900px;
+        height: 600px;
+        background-color: #dac4a8;
+        border: 5px solid white;
+        border-radius: 10px;
+
+    }
+    .glav,h1
+    {
+        margin: 0;
+    }
+    p{
+
+    }
+    header{
+        width: 57%;
+        height: 580px;
+        background:url("Untitled.jpg") ;
+        background-size: cover;
+        float: left;
+        border-radius: 10px;
+        margin: 10px;
+        outline: 10px solid transparent;
+        
+    }
+    .mother{
+        height: 590px;
+        width: 366px;
+        background-color: #dac4a8;
+        float: left;
+        position: relative;
+        top: 10px;
+    }
+    .child1{
+    height: 28%;
+    width: 98%;
+    background-color: #ceb396;
+    border-radius: 10px;
+    }
+    .zagol,.child_head
+    {
+        height: 40px;
+        width: 90%;
+        font-family: COURIER;
+        position: relative;
+        top: 10px;
+        left: 15px;
+
+    }
+    .zagol{
+        color: white;
+
+    }
+    .child_head{
+        color:#714c30 ;
+    }
+    .child2{
+        height: 43%;
+        width: 98%;
+        background-color: #ceb396;
+        border-radius: 10px;
+        position: relative;
+        top: 10px;
+    }
+    .child3{
+        height: 24%;
+        width: 98%;
+        background-color: #ceb396;
+        border-radius: 10px;
+        position: relative;
+        top: 20px;
+    }
+h1{
+    color:#ceb396;
+    font-family: Century Gothic;
+    font-size: 50px;
+    font-weight: lighter;
+}
+.buttons{
+
+    height: 18%;
+    width: 518px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    margin: 10px;
+}
+.button1,.button2,.button3,.button4{
+   
+    height: 100%;
+    width: 128px;
+
+    float: left;
+    position: relative;
+    top:-5px;
+    left: 5px;
+
+}
+    .button2,.button3,.button4{
+        border-left: 1px solid white;
+    }
+    .d4 {
+        width: 0;
+        height: 0;
+        border-left: 4px solid transparent;
+        border-right: 4px solid transparent;
+        border-top: 8px solid white;
+        position: relative;
+        left: 20px;
+
+
+    }
+    .textic{
+        font-weight: lighter;
+        font-family: Century Gothic;
+    }
+    .tex{
+        position: relative;
+        text-align: justify;
+        bottom: -20px;
+        left: 3px;
+        font-size: 4px;
+        text-align: center;
+    }
+
+    .d19 {
+        width: 0;
+        height: 0;
+        border: 4px solid transparent;
+        border-bottom-color: black;
+        position: relative;
+        top: -4px;
+        float: left;
+    }
+    .d19:after {
+        content: "";
+        width: 0;
+        height: 0;
+        position: absolute;
+        left: -4px;
+        top: 4px;
+        border: 4px solid transparent;
+        border-top-color: black;
+        float: left;
+    }
+    .d191 {
+        width: 0;
+        height: 0;
+        border: 4px solid transparent;
+        border-bottom-color: white;
+        position: relative;
+        top: 0px;
+        left: -5px;
+        float: left;
+    }
+    .d191:after {
+        content: "";
+        width: 0;
+        height: 0;
+        position: absolute;
+        left: -4px;
+        top: 4px;
+        border: 4px solid transparent;
+        border-top-color: white;
+        float: left;
+    }
+    .motherd19{
+        height: 100%;
+        width: 20%;
+        float: left;
+        position: relative;
+        top: 3px;
+        left: 55px;
+    }
+    .motherd191{
+        height: 20%;
+        width: 100%;
+        float: left;
+        position: relative;
+        top: -60px;
+        left: 55px;
+        color: white;
+    }
+    .motherd1911{
+        height: 20%;
+        width: 100%;
+        float: left;
+        position: relative;
+        top: 0px;
+        left: 10px;
+        color: white;
+    }
+    .motherd1912{
+        height: 40%;
+        width: 110%;
+        float: left;
+        position: relative;
+        top: -3px;
+        left: 80px;
+        color: white;
+    }
+    .motherd192{
+        height: 20%;
+        width: 100%;
+        float: left;
+        position: relative;
+        top: -50px;
+        left: 55px;
+        color: white;
+    }
+    .zagol2{
+        width: 100%;
+        height: 15%;
+        font-weight: bolder;
+        font-size:13px;
+        position: relative;
+        left: -25px;
+
+
+    }
+    .tex1{
+        position: relative;
+        left: 45px;
+
+    }
+    .tex12{
+        position: relative;
+        left: 45px;
+        top: 10px;
+
+    }
+.tex2
+{
+width: 48%;
+    position: relative;
+    left: 50px;
+    color:#643e22;
+    font-weight: lighter;
+    text-align: left;
+}
+.photoone{
+    width: 80px;
+    height: 80px;
+    background:url("emily.jpg") ;
+    background-size: cover;
+    float: left;
+    position: relative;
+    top:-74px;
+    right: -240px;
+
+
+
+}
+.tex3{
+    font-weight: lighter;
+    position: relative;
+    top: 70px;
+    left: -20px;
+    color:#643e22;
+}
+u{
+    font-weight: lighter;
+    font-size: 15px;
+}
+    span{height:40px; width:40px; display:block; position:relative;}
+
+    .lupa:before, .lupa:after{content:''; height:10px; display:block; position:absolute; top:0; left:0; }
+
+    .lupa:before{width:10px; border:3px #333 solid; border-radius:100%;-webkit-border-radius:100%;-moz-border-radius:100%;}
+
+    .lupa:after{width:3px; background:#333; transform:rotate(-45deg);-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-o-transform:rotate(-45deg);-ms-transform:rotate(-45deg); top:7px; left:14px;}
+    .photo111a,.photo111b,.photo111c {
+        width: 30%;
+        height: 78%;
+      background-color: hotpink;
+        float: left;
+        border-bottom-right-radius: 10px;
+        margin: 5px;
+        outline: 10px solid transparent;
+        position: relative;
+        left: 3px;
+        top: -15px;
+
+    }
+    .hdr1{
+        width: 100%;
+        height: 20%;
+        background-color: #34180b;
+    }
+   .photo111a{
+       background:url("2018.jpg") ;
+       background-size: cover;
+   }
+    .photo111b{
+        background:url("a8e9401c1012ce72ec1a6ff934805cb2.jpg") ;
+        background-size: cover;
+    }
+    .photo111c{
+        background:url("devon-aoki.jpg") ;
+        background-size: cover;
+    }
